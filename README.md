@@ -12,7 +12,7 @@ VPN Remote access
 Full Tunnel vs Split Tunnel ?
 
 
-VPN Mobile 
+VPN Mobile  ?
 
 
-VPN et Seurite :: Firewall , IDS/IPS , IAM , Antivirus , EDR , <<Model Zero Trust>> 
+VPN et Seurite :: Firewall , IDS/IPS , IAM , Antivirus , EDR ; Model Zero Trust .
